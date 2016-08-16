@@ -2,6 +2,8 @@
 
 This is a part of my project in class, machine learning, in Peking University.
 
+The code for data preparing is written in Matlab, and the code for classification by SVM is in R.
+
 Data can be found in [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions).
 
 The reference is: 
